@@ -411,9 +411,6 @@ function App() {
 
           <s.HeaderDiv>
           <s.socialDiv>
-          <a href={CONFIG.Telegram} target={"_blank"}>
-          <s.Icons src="/config/images/telegram.svg" alt="telegram" />
-          </a>
             <a href={CONFIG.Twitter} target={"_blank"}>
           <s.Icons src="/config/images/twitter.svg" alt="twitter" />
           </a>
@@ -447,7 +444,7 @@ function App() {
     
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
-        <StyledImg src={"/config/images/11.jpg"} alt="image" />
+        <StyledImg src={"/config/images/11.png"} alt="image" />
         <s.SpacerSmall/>
             <s.Container flex={1} jc={"center"} ai={"center"} >
 
@@ -597,11 +594,11 @@ function App() {
             <s.SpacerLarge/>
             <s.TextP>
 
-lorem ipsum
+Shez Cats Club
 <br></br><br></br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Shez Cats Club Club is a collection of 10,000 NFTS across the Ethereum Blockchain. SCC is a CC0 project emphasizing the value of community and memes in web3 culture. Inspired by the king of memes and the king of NFTs SCC is determinded to set a new standard of integrity and value in the crypto and NFT environment.
 <br></br><br></br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.            
+Road Map After Sold Out
 </s.TextP>
             </s.SecContainer>
 
@@ -612,11 +609,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             <s.SpacerLarge/>
             <s.CBOX>
             <Carousel autoplay className="custom-slider">
-    <img src="/config/images/1.jpg" />
-    <img src="/config/images/2.jpg" />
-    <img src="/config/images/3.jpg" />
-    <img src="/config/images/4.jpg" />
-    <img src="/config/images/5.jpg" />
+    <img src="/config/images/1.png" />
+    <img src="/config/images/2.png" />
+    <img src="/config/images/3.png" />
+    <img src="/config/images/4.png" />
+    <img src="/config/images/5.png" />
   </Carousel>
   </s.CBOX>
               </s.SecContainer>
@@ -627,34 +624,34 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             </s.TextTitle>
             <s.SpacerLarge/>
             <PanelGroup style={{width: "80%", borderColor: "#A9D0D2"}} accordion bordered>
-    <Panel header="what is an nft?" defaultExpanded>
+    <Panel header="what is an Shez Cats Club nft?" defaultExpanded>
     <s.TextP style={{textAlign: "left"}}>
-          lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    Shez Cats Club Club is a collection of 10,000 NFTS across the Ethereum Blockchain.
           </s.TextP>
     </Panel>
     <Panel header="how can i mint">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    Connect Your Wallet To MetaMAsk And Place Quantity You Need To Mint Then Click On Mint.
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="What is CC0?">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    This means there is no copyright. You can modify, distribute and perform the work, even for commercial purposes, all without asking permission.
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="what is NFT">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    Non-fungible tokens, commonly known as NFTs, are unique cryptographic tokens that exist on a blockchain and cannot be replicated—having a unique identification code and metadata.
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="RoadMap">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    After Sold Out .Stay Tuned.
           </s.TextP>
     </Panel>
-    <Panel header="what is hashlips">
+    <Panel header="what is Mint Price">
     <s.TextP style={{textAlign: "left"}}>
-    lorem ipsum dalar valar malar havan huarasf afaxvas fafs
+    0.005ETH Per SCC .
           </s.TextP>
     </Panel>
   </PanelGroup>
@@ -664,9 +661,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
             <s.SecContainer id="">
                 <s.socialDiv>
-          <a href={CONFIG.Telegram} target={"_blank"}>
-          <s.Icons src="/config/images/telegram.svg" alt="telegram" />
-          </a>
             <a href={CONFIG.Twitter} target={"_blank"}>
           <s.Icons src="/config/images/twitter.svg" alt="twitter" />
           </a>
